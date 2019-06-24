@@ -6,6 +6,7 @@ array.include?("am")
 end
 
 def using_sort(array)
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
 
 end
 
